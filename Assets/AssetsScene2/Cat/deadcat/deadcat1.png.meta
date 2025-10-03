@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3f97215072953ec40b06ee634f69c9ec
+guid: c89a8343dcb87b74f8b6ca0c01ac206c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,13 +97,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cat-1_0
+      name: deadcat1_0
       rect:
         serializedVersion: 2
         x: 854
-        y: 454
+        y: 432
         width: 203
-        height: 167
+        height: 189
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,8 +111,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9472ca83210ab1b4da438cc21f2465f7
-      internalID: 1654703407
+      spriteID: f8b865435871db04f9c4aab34c789b82
+      internalID: -947236199
       vertices: []
       indices: 
       edges: []
@@ -128,7 +128,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Cat-1_0: 1654703407
+      deadcat1_0: -947236199
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

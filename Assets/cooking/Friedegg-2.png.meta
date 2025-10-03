@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 83624b11c73fa394996c90fc1e7f5241
+guid: 16e719e6e7ee52541b4388f89d407e0a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,22 +97,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Floor-2 (1)_0
+      name: Friedegg-2_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1920
-        height: 612
+        x: 41
+        y: 170
+        width: 838
+        height: 878
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac7285d2d62f1d547aa9ff10aa5ad256
-      internalID: -1371217698
+      spriteID: eeda6ed09bbdff84ab41112b2b681c3f
+      internalID: -1724572105
       vertices: []
       indices: 
       edges: []
@@ -128,7 +128,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Floor-2 (1)_0: -1371217698
+      Friedegg-2_0: -1724572105
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

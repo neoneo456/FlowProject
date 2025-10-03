@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6cae612de4ed6a349b0e14aa1a54355e
+guid: 334e794646611af498a7a1dfc9cbd19d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,13 +97,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: O_0
+      name: baitoey3_0
       rect:
         serializedVersion: 2
-        x: 669
-        y: 140
-        width: 573
-        height: 670
+        x: 791
+        y: 363
+        width: 173
+        height: 230
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,8 +111,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0fb30a413b3b34b4bbff00fd8289fd42
-      internalID: 1274662340
+      spriteID: 06a4f0a23211ede43845a2cf320abed0
+      internalID: -1907557705
       vertices: []
       indices: 
       edges: []
@@ -128,7 +128,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      O_0: 1274662340
+      baitoey3_0: -1907557705
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 83624b11c73fa394996c90fc1e7f5241
+guid: 9189d4ceefd79c64d9f3304e0543df17
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -97,22 +97,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Floor-2 (1)_0
+      name: baitoey1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1920
-        height: 612
+        x: 791
+        y: 363
+        width: 173
+        height: 230
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac7285d2d62f1d547aa9ff10aa5ad256
-      internalID: -1371217698
+      spriteID: 9a2e30c4e94aab242b4bc57334c16d27
+      internalID: -1119982118
       vertices: []
       indices: 
       edges: []
@@ -128,7 +128,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Floor-2 (1)_0: -1371217698
+      baitoey1_0: -1119982118
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

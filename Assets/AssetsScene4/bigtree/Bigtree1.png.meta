@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 83624b11c73fa394996c90fc1e7f5241
+guid: 9e72e43095e49b64eb79e8742fd37103
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,22 +97,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Floor-2 (1)_0
+      name: Bigtree1_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 209
         y: 0
-        width: 1920
-        height: 612
+        width: 1505
+        height: 1080
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac7285d2d62f1d547aa9ff10aa5ad256
-      internalID: -1371217698
+      spriteID: 91b04d62a111ca64f955f68e725a189d
+      internalID: -474601221
       vertices: []
       indices: 
       edges: []
@@ -128,7 +128,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Floor-2 (1)_0: -1371217698
+      Bigtree1_0: -474601221
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

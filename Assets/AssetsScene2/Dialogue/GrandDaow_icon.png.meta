@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 83624b11c73fa394996c90fc1e7f5241
+guid: 64dcc021b5e24c34ebfc6c478de0be3f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,22 +97,43 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Floor-2 (1)_0
+      name: GrandDaow_icon_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1920
-        height: 612
+        width: 2860
+        height: 3805
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac7285d2d62f1d547aa9ff10aa5ad256
-      internalID: -1371217698
+      spriteID: fd39dbcf91b11534281461f7a94063f4
+      internalID: 563665498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrandDaow_icon_1
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 0
+        width: 2860
+        height: 3805
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca866ad33bf88d44b878cc83da5d0b7e
+      internalID: 2032333957
       vertices: []
       indices: 
       edges: []
@@ -128,7 +149,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Floor-2 (1)_0: -1371217698
+      GrandDaow_icon_0: 563665498
+      GrandDaow_icon_1: 2032333957
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

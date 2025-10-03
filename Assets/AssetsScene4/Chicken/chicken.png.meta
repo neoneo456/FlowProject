@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5ef3105bbc2a1cb449fdba0436731623
+guid: 2168cd497adc9d4448b79f89b45ec0ec
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,13 +97,139 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chicken1-anim_0
+      name: chicken_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 979
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8a73b78c9727948b886dc852ac13c1
+      internalID: -706001683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken_1
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 792
+        width: 979
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7aae9db5f0b8f4eb44abf5de754f13
+      internalID: 1548684790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken_2
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 792
+        width: 979
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d713caafbebb4649ac6bd6bbeac76b5
+      internalID: -1915620314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken_3
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 792
+        width: 979
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fce02dec0bc1f4595133dcdb41083e
+      internalID: -1525681196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken_4
+      rect:
+        serializedVersion: 2
+        x: 3916
+        y: 792
+        width: 979
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33e2dfce7f53eb4d89c482003c5f045
+      internalID: -150942527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken_5
+      rect:
+        serializedVersion: 2
+        x: 4895
+        y: 792
+        width: 979
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0c561d608ae3d499ef22f6c62fc34c
+      internalID: 388051529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken_6
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 968.1667
-        height: 785
+        width: 979
+        height: 792
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,20 +237,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b3420e8debcd064fbb3772a7027b359
-      internalID: 1721775002
+      spriteID: e2e543ed2887e5c4caf455823f0fc4f5
+      internalID: 232910779
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken1-anim_1
+      name: chicken_7
       rect:
         serializedVersion: 2
-        x: 968
+        x: 979
         y: 0
-        width: 968.1667
-        height: 785
+        width: 979
+        height: 792
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,20 +258,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2ea1a80414656846a23c7866e2a4cf2
-      internalID: 360401194
+      spriteID: f49eb867908fdb84aa97529569a2ca95
+      internalID: -520137186
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken1-anim_2
+      name: chicken_8
       rect:
         serializedVersion: 2
-        x: 1936
+        x: 1958
         y: 0
-        width: 968.1667
-        height: 785
+        width: 979
+        height: 792
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,20 +279,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa2e06b4ddb415b47a5378b233253ebd
-      internalID: -220607625
+      spriteID: 51dc7db8d5b19324da5d826080cc2ba2
+      internalID: 2060026037
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken1-anim_3
+      name: chicken_9
       rect:
         serializedVersion: 2
-        x: 2904
+        x: 2937
         y: 0
-        width: 968.1667
-        height: 785
+        width: 979
+        height: 792
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,20 +300,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9444e7853cbf49a45bdcb4620af88059
-      internalID: -1770242193
+      spriteID: 4309bad811ceb8945a30e71eb3e38a99
+      internalID: 1067193407
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken1-anim_4
+      name: chicken_10
       rect:
         serializedVersion: 2
-        x: 3872
+        x: 3916
         y: 0
-        width: 968.1667
-        height: 785
+        width: 979
+        height: 792
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,20 +321,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1eccd050e08e86245b5dc45ab7ab8988
-      internalID: -261402767
+      spriteID: 54dddc77c56cc964e9d96b54effd5aa5
+      internalID: -266210811
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chicken1-anim_5
+      name: chicken_11
       rect:
         serializedVersion: 2
-        x: 4840
+        x: 4895
         y: 0
-        width: 968.1667
-        height: 785
+        width: 979
+        height: 792
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,134 +342,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8265f4529bca65a42ba2db36b3308eb4
-      internalID: -1993749960
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: chicken1-anim_6
-      rect:
-        serializedVersion: 2
-        x: 5808
-        y: 0
-        width: 968.1667
-        height: 785
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6921f44e24ce1cd4cb5afa66fb62a13b
-      internalID: 1415250927
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: chicken1-anim_7
-      rect:
-        serializedVersion: 2
-        x: 6776
-        y: 0
-        width: 968.1667
-        height: 785
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 35f4289b1b775f549ba6c6b3bb9fbc79
-      internalID: 286139312
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: chicken1-anim_8
-      rect:
-        serializedVersion: 2
-        x: 7744
-        y: 0
-        width: 968.1667
-        height: 785
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0ff1d1b2ab703f2418236ce7d2c32a05
-      internalID: 994042634
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: chicken1-anim_9
-      rect:
-        serializedVersion: 2
-        x: 8712
-        y: 0
-        width: 968.1667
-        height: 785
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7a49c8d2ba02dfc46848289dba2ea437
-      internalID: -1889297355
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: chicken1-anim_10
-      rect:
-        serializedVersion: 2
-        x: 9680
-        y: 0
-        width: 968.1667
-        height: 785
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 609557c99001d65479129ba1c153df3d
-      internalID: 927014656
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: chicken1-anim_11
-      rect:
-        serializedVersion: 2
-        x: 10648
-        y: 0
-        width: 968.1667
-        height: 785
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f7f84c4b22fd08d4183ee5fdc40f63dd
-      internalID: 304854176
+      spriteID: 7f745d748e8cdda42a658fa34281871f
+      internalID: 437990341
       vertices: []
       indices: 
       edges: []
@@ -359,18 +359,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      chicken1-anim_0: 1721775002
-      chicken1-anim_1: 360401194
-      chicken1-anim_10: 927014656
-      chicken1-anim_11: 304854176
-      chicken1-anim_2: -220607625
-      chicken1-anim_3: -1770242193
-      chicken1-anim_4: -261402767
-      chicken1-anim_5: -1993749960
-      chicken1-anim_6: 1415250927
-      chicken1-anim_7: 286139312
-      chicken1-anim_8: 994042634
-      chicken1-anim_9: -1889297355
+      chicken_0: -706001683
+      chicken_1: 1548684790
+      chicken_10: -266210811
+      chicken_11: 437990341
+      chicken_2: -1915620314
+      chicken_3: -1525681196
+      chicken_4: -150942527
+      chicken_5: 388051529
+      chicken_6: 232910779
+      chicken_7: -520137186
+      chicken_8: 2060026037
+      chicken_9: 1067193407
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
